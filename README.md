@@ -6,4 +6,4 @@
 -> AI friendly learning possible by feeding this data to an agent and cross questioning 
 
 
-Happy building :) 
+Happy building and learning :) 
